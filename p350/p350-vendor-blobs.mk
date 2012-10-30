@@ -46,16 +46,16 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/lge/p350/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/lge/p350/proprietary/lib/libauth.so:system/lib/libauth.so \
-    vendor/lge/p350/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/p350/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/lge/p350/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/lge/p350/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/lge/p350/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/lge/p350/proprietary/bin/BCM43291A0_003.001.013.0060.Pecan.hcd:system/bin/BCM43291A0_003.001.013.0060.Pecan.hcd \
     vendor/lge/p350/proprietary/etc/firmware/BCM43291A0_003.001.013.0060.Pecan.hcd:system/etc/firmware/BCM43291A0_003.001.013.0060.Pecan.hcd \
-    vendor/lge/p350/proprietary/bin/rild:system/bin/rild \
     vendor/lge/p350/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
+    vendor/lge/p350/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/p350/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
+    vendor/lge/p350/proprietary/bin/rild:system/bin/rild \
     vendor/lge/p350/proprietary/lib/liblgeat.so:system/lib/liblgeat.so \
     vendor/lge/p350/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/lge/p350/proprietary/lib/libloc.so:system/lib/libloc.so \
@@ -73,10 +73,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libsnd.so:system/lib/libsnd.so \
     vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p350/proprietary/lib/liba2dp.so:system/lib/liba2dp.so \
-    vendor/lge/p350/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/p350/proprietary/lib/libcamera.so:system/lib/libcamera.so \
-    vendor/lge/p350/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
-    vendor/lge/p350/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+    vendor/lge/p350/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/p350/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/lge/p350/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/lge/p350/proprietary/etc/wl/nvram.txt:system/etc/wl/nvram.txt \
@@ -87,6 +85,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/etc/vold.fstab:system/etc/vold.fstab \
     vendor/lge/p350/proprietary/bin/ami304d:system/bin/ami304d \
     vendor/lge/p350/proprietary/lib/hw/sensors.pecan.so:system/lib/hw/sensors.pecan.so \
+    vendor/lge/p350/proprietary/lib/hw/copybit.default.so:system/lib/hw/copybit.default.so \
+    vendor/lge/p350/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/lge/p350/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/lge/p350/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/lge/p350/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
