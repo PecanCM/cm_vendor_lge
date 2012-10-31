@@ -129,4 +129,3 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/lge/p350/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
     vendor/lge/p350/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
-    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:system/lib/hw/gralloc.$(TARGET_BOARD_PLATFORM).so
