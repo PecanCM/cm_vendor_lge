@@ -114,7 +114,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
     vendor/lge/p350/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
     vendor/lge/p350/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
-    vendor/lge/p350/proprietary/lib/libOmxCore.so:system/lib/libOmxCore.so \
     vendor/lge/p350/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
     vendor/lge/p350/proprietary/lib/libOmxQcelpHwDec.so:system/lib/libOmxQcelpHwDec.so \
     vendor/lge/p350/proprietary/lib/libOmxVidEnc.so:system/lib/libOmxVidEnc.so \
