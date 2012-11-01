@@ -26,15 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/lge/p350/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/lge/p350/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so
-ifeq ($(TARGET_BOARD_PLATFORM),msm7k)
-PRODUCT_COPY_FILES += \
-    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:obj/lib/hw/gralloc.msm7K.so \
-    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:system/lib/hw/gralloc.msm7k.so
-else
-PRODUCT_COPY_FILES += \
-    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:obj/lib/hw/gralloc.msm7k.so \
-    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:system/lib/hw/gralloc.msm7k.so
-endif
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ###################### DON'T EDIT ###################################
