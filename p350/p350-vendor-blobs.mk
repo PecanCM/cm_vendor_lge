@@ -32,8 +32,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:system/lib/hw/gralloc.msm7k.so
 else
 PRODUCT_COPY_FILES += \
-    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:obj/lib/hw/gralloc.msm7x27.so \
-    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:system/lib/hw/gralloc.msm7x27.so
+    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:obj/lib/hw/gralloc.msm7k.so \
+    vendor/lge/p350/proprietary/lib/hw/gralloc.msm7k.so:system/lib/hw/gralloc.msm7k.so
 endif
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
