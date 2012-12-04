@@ -55,18 +55,15 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/p350/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/lge/p350/proprietary/bin/rild:system/bin/rild \
-    vendor/lge/p350/proprietary/lib/liblgeat.so:system/lib/liblgeat.so \
     vendor/lge/p350/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/lge/p350/proprietary/lib/libloc.so:system/lib/libloc.so \
     vendor/lge/p350/proprietary/lib/libloc-rpc.so:system/lib/libloc-rpc.so \
     vendor/lge/p350/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/lge/p350/proprietary/lib/libqueue.so:system/lib/libqueue.so \
-    vendor/lge/p350/proprietary/lib/liblgerft.so:system/lib/liblgerft.so \
     vendor/lge/p350/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/lge/p350/proprietary/lib/libdll.so:system/lib/libdll.so \
     vendor/lge/p350/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/lge/p350/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
-    vendor/lge/p350/proprietary/lib/liblgdrm.so:system/lib/liblgdrm.so \
     vendor/lge/p350/proprietary/lib/liblgdrmwbxml.so:system/lib/liblgdrmwbxml.so \
     vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p350/proprietary/lib/libsnd.so:system/lib/libsnd.so \
@@ -119,4 +116,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libOmxQcelpDec.so:system/lib/libOmxQcelpDec.so \
     vendor/lge/p350/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/lge/p350/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
-    vendor/lge/p350/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
+    vendor/lge/p350/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so
