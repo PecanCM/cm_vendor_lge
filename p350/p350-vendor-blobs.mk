@@ -59,7 +59,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/lge/p350/proprietary/lib/libloc.so:system/lib/libloc.so \
     vendor/lge/p350/proprietary/lib/libloc-rpc.so:system/lib/libloc-rpc.so \
-    vendor/lge/p350/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/lge/p350/proprietary/lib/libqueue.so:system/lib/libqueue.so \
     vendor/lge/p350/proprietary/lib/liblgerft.so:system/lib/liblgerft.so \
     vendor/lge/p350/proprietary/lib/libdss.so:system/lib/libdss.so \
