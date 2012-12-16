@@ -69,7 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/liblgdrmwbxml.so:system/lib/liblgdrmwbxml.so \
     vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p350/proprietary/lib/libsnd.so:system/lib/libsnd.so \
-    vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p350/proprietary/lib/libcamera.so:system/lib/libcamera.so \
     vendor/lge/p350/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/p350/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
@@ -79,6 +78,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/etc/wl/rtecdc-apsta.bin:system/etc/wl/rtecdc-apsta.bin \
     vendor/lge/p350/proprietary/etc/wl/rtecdc-mfgtest.bin:system/etc/wl/rtecdc-mfgtest.bin \
     vendor/lge/p350/proprietary/etc/MELFAS_FIRM.bin:system/etc/MELFAS_FIRM.bin \
+    vendor/lge/p350/proprietary/usr/idc/synaptics-rmi-touchscreen.idc:system/usr/idc/synaptics-rmi-touchscreen.idc \
+    vendor/lge/p350/proprietary/idc/synaptics.idc:system/usr/idc/synaptics.idc \
+    vendor/lge/p350/proprietary/idc/touch_mcs7000.idc:system/usr/idc/touch_mcs7000.idc \
+    vendor/lge/p350/proprietary/keychars/touch_mcs7000.kcm.bin:system/usr/keychars/touch_mcs7000.kcm.bin \
     vendor/lge/p350/proprietary/bin/ami304d:system/bin/ami304d \
     vendor/lge/p350/proprietary/lib/hw/sensors.pecan.so:system/lib/hw/sensors.pecan.so \
     vendor/lge/p350/proprietary/lib/hw/copybit.default.so:system/lib/hw/copybit.default.so \
