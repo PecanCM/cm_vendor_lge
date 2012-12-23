@@ -64,6 +64,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/lge/p350/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/lge/p350/proprietary/lib/liblgdrmwbxml.so:system/lib/liblgdrmwbxml.so \
+    vendor/lge/p350/proprietary/lib/liblgdrm.so:system/lib/liblgdrm.so \
+    vendor/lge/p350/proprietary/lib/liblgeat.so:system/lib/liblgeat.so \
+    vendor/lge/p350/proprietary/lib/liblgerft.so:system/lib/liblgerft.so \
     vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p350/proprietary/lib/libsnd.so:system/lib/libsnd.so \
     vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
