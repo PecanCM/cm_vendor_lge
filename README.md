@@ -1,1 +1,1 @@
-proprietary files for compile Jellybean rom for LG optimus Me P350
+proprietary files for compile Jellybean/android 4.2 rom for LG optimus Me P350
