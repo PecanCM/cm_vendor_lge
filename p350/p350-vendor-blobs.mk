@@ -83,7 +83,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/usr/idc/touch_mcs7000.idc:system/usr/idc/touch_mcs7000.idc \
     vendor/lge/p350/proprietary/usr/keychars/touch_mcs7000.kcm.bin:system/usr/keychars/touch_mcs7000.kcm.bin \
     vendor/lge/p350/proprietary/bin/ami304d:system/bin/ami304d \
-    vendor/lge/p350/proprietary/lib/hw/sensors.pecan.so:system/lib/hw/sensors.pecan.so \
+    vendor/lge/p350/proprietary/lib/hw/sensors.p350.so:system/lib/hw/sensors.p350.so \
+    vendor/lge/p350/proprietary/lib/hw/lights.pecan.so:system/lib/hw/lights.pecan.so \
     vendor/lge/p350/proprietary/lib/hw/copybit.default.so:system/lib/hw/copybit.default.so \
     vendor/lge/p350/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/p350/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
