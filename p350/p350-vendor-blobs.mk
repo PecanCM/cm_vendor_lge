@@ -85,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/bin/ami304d:system/bin/ami304d \
     vendor/lge/p350/proprietary/lib/hw/sensors.pecan.so:system/lib/hw/sensors.pecan.so \
     vendor/lge/p350/proprietary/lib/hw/copybit.default.so:system/lib/hw/copybit.default.so \
-    vendor/lge/p350/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/lge/p350/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/p350/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/lge/p350/proprietary/lib/libOmxAmrRtpDec.so:system/lib/libOmxAmrRtpDec.so \
