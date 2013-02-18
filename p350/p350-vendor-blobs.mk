@@ -67,6 +67,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p350/proprietary/lib/libsnd.so:system/lib/libsnd.so \
     vendor/lge/p350/proprietary/lib/libcamera.so:system/lib/libcamera.so \
+    vendor/lge/p350/proprietary/lib/liblgdrm.so:system/lib/liblgdrm.so \
+    vendor/lge/p350/proprietary/lib/liblgeat.so:system/lib/liblgeat.so \
+    vendor/lge/p350/proprietary/lib/liblgerft.so:system/lib/liblgerft.so \
     vendor/lge/p350/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/p350/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/lge/p350/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
