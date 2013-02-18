@@ -76,7 +76,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/etc/wl/rtecdc-mfgtest.bin:system/etc/wl/rtecdc-mfgtest.bin \
     vendor/lge/p350/proprietary/etc/MELFAS_FIRM.bin:system/etc/MELFAS_FIRM.bin \
     vendor/lge/p350/proprietary/usr/idc/synaptics-rmi-touchscreen.idc:system/usr/idc/synaptics-rmi-touchscreen.idc \
-    vendor/lge/p350/proprietary/usr/idc/synaptics.idc:system/usr/idc/synaptics.idc \
     vendor/lge/p350/proprietary/usr/idc/touch_mcs7000.idc:system/usr/idc/touch_mcs7000.idc \
     vendor/lge/p350/proprietary/usr/keychars/touch_mcs7000.kcm.bin:system/usr/keychars/touch_mcs7000.kcm.bin \
     vendor/lge/p350/proprietary/bin/ami304d:system/bin/ami304d \
