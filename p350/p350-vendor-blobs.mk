@@ -85,3 +85,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/hw/sensors.pecan.so:system/lib/hw/sensors.pecan.so \
     vendor/lge/p350/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/p350/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
+    vendor/lge/p350/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
+    vendor/lge/p350/proprietary/lib/libOmxQcelpDec.so:system/lib/libOmxQcelpDec.so \
+    vendor/lge/p350/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+
