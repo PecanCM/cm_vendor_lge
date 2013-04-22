@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libril.so:obj/lib/libril.so \
     vendor/lge/p350/proprietary/lib/libmmipl.so:obj/lib/libmmipl.so \
     vendor/lge/p350/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
-    vendor/lge/p350/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/lge/p350/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -69,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/liblgerft.so:system/lib/liblgerft.so \
     vendor/lge/p350/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/lge/p350/proprietary/lib/libsnd.so:system/lib/libsnd.so \
-    vendor/lge/p350/proprietary/lib/libcamera.so:system/lib/libcamera.so \
     vendor/lge/p350/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/p350/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/lge/p350/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
