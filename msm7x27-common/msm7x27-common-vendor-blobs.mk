@@ -17,6 +17,7 @@
 ## Adreno proprietaries
 PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27-common/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
+    vendor/lge/msm7x27-common/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/lge/msm7x27-common/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/lge/msm7x27-common/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/lge/msm7x27-common/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
