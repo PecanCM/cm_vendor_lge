@@ -29,6 +29,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/lge/msm7x27-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+    vendor/lge/msm7x27-common/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so
     
 ## OMX proprietaries (from ZTE Blade)
 PRODUCT_COPY_FILES += \

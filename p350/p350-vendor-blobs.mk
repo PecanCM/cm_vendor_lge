@@ -40,7 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libdsm.so:system/lib/libdsm.so \
     vendor/lge/p350/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/lge/p350/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
-    vendor/lge/p350/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/lge/p350/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/lge/p350/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/lge/p350/proprietary/lib/libauth.so:system/lib/libauth.so \
