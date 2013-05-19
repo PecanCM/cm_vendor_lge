@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/lib/libbcmwl.so:system/lib/libbcmwl.so \
     vendor/lge/p350/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/lge/p350/proprietary/lib/libdsm.so:system/lib/libdsm.so \
-    vendor/lge/p350/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/lge/p350/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/lge/p350/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/lge/p350/proprietary/lib/libnv.so:system/lib/libnv.so \

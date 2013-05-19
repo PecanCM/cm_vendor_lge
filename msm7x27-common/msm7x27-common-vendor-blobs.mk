@@ -22,14 +22,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27-common/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/lge/msm7x27-common/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/msm7x27-common/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
+    vendor/lge/msm7x27-common/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
+    vendor/lge/msm7x27-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+    vendor/lge/msm7x27-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+    vendor/lge/msm7x27-common/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/lge/msm7x27-common/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/lge/msm7x27-common/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw
     
-## Other
-PRODUCT_COPY_FILES += \
-    vendor/lge/msm7x27-common/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
-    vendor/lge/msm7x27-common/proprietary/lib/libgsl.so:system/lib/libgsl.so \
-    vendor/lge/msm7x27-common/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so
     
 ## OMX proprietaries (from ZTE Blade)
 PRODUCT_COPY_FILES += \
