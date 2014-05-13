@@ -21,7 +21,6 @@
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ######################    DEPENDENCY SECTION  #######################
 PRODUCT_COPY_FILES += \
-    vendor/lge/p350/proprietary/lib/libril.so:obj/lib/libril.so \
     vendor/lge/p350/proprietary/lib/libmmipl.so:obj/lib/libmmipl.so \
     vendor/lge/p350/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/lge/p350/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so
@@ -49,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p350/proprietary/bin/BCM43291A0_003.001.013.0060.Pecan.hcd:system/bin/BCM43291A0_003.001.013.0060.Pecan.hcd \
     vendor/lge/p350/proprietary/etc/firmware/BCM43291A0_003.001.013.0060.Pecan.hcd:system/etc/firmware/BCM43291A0_003.001.013.0060.Pecan.hcd \
     vendor/lge/p350/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
-    vendor/lge/p350/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/p350/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/lge/p350/proprietary/bin/rild:system/bin/rild \
     vendor/lge/p350/proprietary/lib/libcm.so:system/lib/libcm.so \
